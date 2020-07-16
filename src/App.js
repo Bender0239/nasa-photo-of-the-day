@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import ImgContainer from './components/imgOfTheDay/ImgContainer.js'
+import ImgContainer from './components/imgOfTheDay/img/ImgContainer.js'
 import axios from 'axios'
 
 const BASE_URL = 'https://api.nasa.gov/planetary/apod'
